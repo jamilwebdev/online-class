@@ -1,0 +1,79 @@
+[{
+  "id": 1,
+  "course_name": "Safety Technician IV",
+  "price": 1,
+  "images": "http://dummyimage.com/246x234.png/dddddd/000000",
+  "university": "Cleary College"
+}, {
+  "id": 2,
+  "course_name": "Administrative Assistant III",
+  "price": 6,
+  "images": "http://dummyimage.com/197x144.jpg/ff4444/ffffff",
+  "university": "Iglobal University"
+}, {
+  "id": 3,
+  "course_name": "Quality Engineer",
+  "price": 3,
+  "images": "http://dummyimage.com/155x190.bmp/ff4444/ffffff",
+  "university": "Roehampton University of Surrey"
+}, {
+  "id": 4,
+  "course_name": "Analyst Programmer",
+  "price": 1,
+  "images": "http://dummyimage.com/245x200.png/dddddd/000000",
+  "university": "State University of New York School of Engineering and Applied Sciences"
+}, {
+  "id": 5,
+  "course_name": "Financial Analyst",
+  "price": 9,
+  "images": "http://dummyimage.com/237x136.jpg/cc0000/ffffff",
+  "university": "The Naropa Institute"
+}, {
+  "id": 6,
+  "course_name": "Software Engineer I",
+  "price": 8,
+  "images": "http://dummyimage.com/208x225.bmp/5fa2dd/ffffff",
+  "university": "National American University, Albuquerque"
+}, {
+  "id": 7,
+  "course_name": "Civil Engineer",
+  "price": 10,
+  "images": "http://dummyimage.com/145x216.jpg/ff4444/ffffff",
+  "university": "Wittenberg University"
+}, {
+  "id": 8,
+  "course_name": "Food Chemist",
+  "price": 8,
+  "images": "http://dummyimage.com/224x103.png/5fa2dd/ffffff",
+  "university": "Chiang Mai Rajabhat University"
+}, {
+  "id": 9,
+  "course_name": "Information Systems Manager",
+  "price": 4,
+  "images": "http://dummyimage.com/208x102.bmp/5fa2dd/ffffff",
+  "university": "Multimedia University of Kenya"
+}, {
+  "id": 10,
+  "course_name": "Senior Editor",
+  "price": 5,
+  "images": "http://dummyimage.com/239x131.bmp/ff4444/ffffff",
+  "university": "British College of Osteopathic Medicine"
+}, {
+  "id": 11,
+  "course_name": "Budget/Accounting Analyst III",
+  "price": 2,
+  "images": "http://dummyimage.com/228x161.bmp/5fa2dd/ffffff",
+  "university": "Wittenborg University"
+}, {
+  "id": 12,
+  "course_name": "Account Coordinator",
+  "price": 1,
+  "images": "http://dummyimage.com/209x246.jpg/5fa2dd/ffffff",
+  "university": "Fine Arts Academy in Warsaw"
+}, {
+  "id": 13,
+  "course_name": "Programmer IV",
+  "price": 2,
+  "images": "http://dummyimage.com/142x143.png/dddddd/000000",
+  "university": "Nagasaki University"
+}]
